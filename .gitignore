@@ -5,3 +5,6 @@ yolopy/save1/ckpt
 yolopy/save2/ckpt
 yolopy/yolov/ckpt
 yolopy/yolov/images
+yolo/darknet/
+yolopy/darkflow/
+yolopy/yolov/
